@@ -2,7 +2,7 @@
 Atividades desenvolvidas durante o 1°Semestre da faculdade de GPI FATEC-SJC
 
 ## Analise de Dados Abertos por meio de Dashboard
-https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/empresasmultimodais0.1.0.pbix
+https://github.com/yagoferracioli/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/empresasmultimodais0.1.0.pbix
 Foram coletados dados relativos a empresas multimodais presentes no site da ANTT. Para a construção do dashboard foram usados linguagem DAX e construção de
 visualijzações
 
